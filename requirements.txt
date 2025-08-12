@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+tensorflow==2.18.0
+scikit-learn
+matplotlib
+Pillow
+pycocotools
+jupyter
